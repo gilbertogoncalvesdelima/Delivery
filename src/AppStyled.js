@@ -8,6 +8,8 @@ export const Container = styled.div`
 
 export const Menu = styled.div`
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #136713;
   width: 80px;
   flex-direction: column;
