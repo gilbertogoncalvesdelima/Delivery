@@ -6,6 +6,15 @@ export const Container = styled.div`
   background-color: #ff0000;
 `;
 
-export const Menu = styled.div``;
+export const Menu = styled.div`
+  display: flex;
+  background-color: #136713;
+  width: 80px;
+  flex-direction: column;
+`;
 
-export const PageBody = styled.div``;
+export const PageBody = styled.div`
+  display: flex;
+  background-color: #0000ff;
+  flex: 1;
+`;
